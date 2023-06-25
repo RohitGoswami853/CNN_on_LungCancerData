@@ -40,7 +40,6 @@ All images were de-identified before performing analysis. Written consent was wa
 
 ### After training the accuracy rate of the model is 86%, which means it can predict the data quite well.
 
-![](media/Evaluate.png)
 
 
 # Prediction
