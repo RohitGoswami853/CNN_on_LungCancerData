@@ -43,7 +43,7 @@ All images were de-identified before performing analysis. Written consent was wa
 ![](media/Evaluate.png)
 
 
-# Predtiction
+# Prediction
 
 #### So the dataset contains a folder "Test" with no labels for actually verifing how good the model works.
 
