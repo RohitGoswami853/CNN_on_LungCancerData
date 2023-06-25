@@ -23,4 +23,4 @@ All images were de-identified before performing analysis. Written consent was wa
 ![](media/Libraries.png)
 
 # CNN Model
-![](media/summery.png)
+![](media/model.png)
